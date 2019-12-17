@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/parser.dir/main.cpp.o CMakeFiles/parser.dir/src/LexicalAnalyzer.cpp.o CMakeFiles/parser.dir/src/Tree.cpp.o CMakeFiles/parser.dir/src/Parser.cpp.o CMakeFiles/parser.dir/src/Test.cpp.o  -o parser 
